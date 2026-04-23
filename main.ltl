@@ -1,0 +1,15 @@
+// ltl-snake-ai/main.ltl
+//
+// Snake with hamiltonian-cycle path-planning AI.
+//
+// This is an early skeleton — contribution is welcome! See the
+// README for build instructions.
+
+import std::io
+import std::fmt
+
+pub fn main(args: [str]) -> Int {
+    io::println("ltl-snake-ai v0.1.0")
+    io::println("Snake with hamiltonian-cycle path-planning AI.")
+    0
+}
